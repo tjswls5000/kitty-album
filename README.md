@@ -1,9 +1,3 @@
-# 고양이 사진첩
----
-# 완성본 링크
-
-[고양이 사진첩](https://dalcon10028.github.io/cat-photo-album/)
-
 # **문제지**
 
 당신은 고양이들을 모시고 있는 어느 집사에게 자신의 고양이 사진을 관리해달라는 의뢰를 받았습니다.
@@ -187,5 +181,3 @@ nodeId 하위에 있는 파일 / 디렉토리 목록을 불러옵니다.
 - filePath 맨 앞에 /가 포함될 수도 있으므로, 아래의 값과 잘 조합하여 이미지를 불러오도록 합니다.
 
 `https:*//fe-dev-matching-2021-03-serverlessdeploymentbuck-t3kpj3way537.s3.ap-northeast-2.amazonaws.com/public/${node.filePath}*`
-
-**[닫기](https://programmers.co.kr/assignment_tokens/1074189/code_view#)**
